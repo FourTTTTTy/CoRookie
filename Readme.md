@@ -8,7 +8,6 @@
 
 **| Stack |**  SpringBoot, React, WebSocket, WebRTC
 
-**| GitLab |**  [https://lab.ssafy.com/s09-webmobile1-sub2/S09P12A402](https://lab.ssafy.com/s09-webmobile1-sub2/S09P12A402)
 
 &nbsp;  
 
@@ -177,12 +176,12 @@ Google Java Convention
 
 <table>
       <tr align=center>
-        <td><a href='https://lab.ssafy.com/gyqls234'>최효빈</a></td>
-        <td><a href='https://lab.ssafy.com/btac3310'>서원호</a></td>
-        <td><a href='https://lab.ssafy.com/imapples'>권현수</a></td>
-        <td><a href='https://lab.ssafy.com/zaduc'>황상미</a></td>
-        <td><a href='https://lab.ssafy.com/tmd0707'>신승수</a></td>
-        <td><a href='https://lab.ssafy.com/sociojs85'>박종서</a></td>
+        <td><a href='#'>최효빈</a></td>
+        <td><a href='#'>서원호</a></td>
+        <td><a href='#'>권현수</a></td>
+        <td><a href='#'>황상미</a></td>
+        <td><a href='#'>신승수</a></td>
+        <td><a href='#'>박종서</a></td>
       </tr>
         <tr align=center>
         <td>Leader, BE</td>
